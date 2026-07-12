@@ -1,1 +1,5 @@
-
+git pull origin main
+# (edita tu archivo asignado)
+git add backend/src/scheduler.js
+git commit -m "feat(scheduler): mejorar manejo de errores en ciclo de ingesta"
+git push origin main
